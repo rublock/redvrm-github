@@ -1,0 +1,6 @@
+selenium~=4.27.1
+pytest
+requests
+allure-pytest
+pytest-html
+webdriver-manager~=4.0.2
